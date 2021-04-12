@@ -1,0 +1,26 @@
+body {
+    background-color: #f0f4ef;
+    color: #0d1821;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mainSection {
+    padding-top: 7%;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f4ef;
+}
+
+#restaurant {
+    font-size: 50px;
+}
+
+#subheader {
+    font-size: 40px;
+    padding-bottom: 2%;
+}
