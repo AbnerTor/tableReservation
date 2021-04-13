@@ -29,9 +29,20 @@ body {
     padding-bottom: 2%;
 }
 
+#formContainer {
+    position: relative;
+}
+
+#resButtonDiv {
+    position: relative;
+    left: 25%;
+    margin-bottom: 2%;
+}
+
 #form {
     display: flex;
     flex-direction: column;
-    
     width: 200%;
+    position: relative;
+    right: 50%
 }
