@@ -15,7 +15,7 @@ body {
     align-items: center;
     background-color: #c7eae4;
     border-style: solid;
-    border-color: #0b3954;
+    border-color: #c7eae4;
     border-width: 5px;
     padding: 50px;
 }
@@ -27,4 +27,11 @@ body {
 #subheader {
     font-size: 40px;
     padding-bottom: 2%;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    
+    width: 200%;
 }
